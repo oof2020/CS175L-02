@@ -10,9 +10,6 @@ public static void main(String[] args) {
 	double InterstPct = in.nextDouble();
 
 
-
-
-
  	BankAccount myBankAccount= new BankAccount(amount, InterstPct);
 
 

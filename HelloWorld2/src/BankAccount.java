@@ -14,7 +14,6 @@ public class BankAccount
       balance = 0;
       InterestPct = InterestRate;
    }
-
    /**
       Makes a deposit into this account.
       @param amount the amount of the deposit
